@@ -1,0 +1,8 @@
+D:\Learning\SD\C Sharp\1\FirstApp\obj\Debug\FirstApp.csproj.AssemblyReference.cache
+D:\Learning\SD\C Sharp\1\FirstApp\obj\Debug\FirstApp.csproj.SuggestedBindingRedirects.cache
+D:\Learning\SD\C Sharp\1\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+D:\Learning\SD\C Sharp\1\FirstApp\bin\Debug\FirstApp.exe.config
+D:\Learning\SD\C Sharp\1\FirstApp\bin\Debug\FirstApp.exe
+D:\Learning\SD\C Sharp\1\FirstApp\bin\Debug\FirstApp.pdb
+D:\Learning\SD\C Sharp\1\FirstApp\obj\Debug\FirstApp.exe
+D:\Learning\SD\C Sharp\1\FirstApp\obj\Debug\FirstApp.pdb
